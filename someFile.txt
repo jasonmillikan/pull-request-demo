@@ -1,6 +1,6 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-Cras ac tempor lacus, sit amet maximus ex. Cras quis venenatis erat. Phasellus imperdiet mi in ipsum vehicula, sed faucibus libero interdum. Sed et diam ante. 
+Cras ac tempor lacus, sit amet maximus ex. Cras quis venenatis erat. Phasellus imperdiet mi in ipsum vehicula, sed faucibus libero interdum.
 
 Nam fringilla ipsum id tellus vestibulum, in rutrum elit venenatis. Nulla nec vulputate ligula. Sed vel lectus faucibus, dignissim mauris eu, lobortis est. 
 
