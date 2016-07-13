@@ -2,7 +2,7 @@ some code {
 
 some more code;
 
-some fixed code;
+some newly fixed code;
 
 }
 
